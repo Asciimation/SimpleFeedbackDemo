@@ -49,9 +49,6 @@ venv/
 *.swp
 *.swo
 
-# Generated feedback data
-FeedbackData/RawFeedback.txt
-
 # OS specific files
 .DS_Store
 Thumbs.db
